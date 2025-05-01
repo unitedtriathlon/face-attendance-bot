@@ -1,0 +1,5 @@
+python-telegram-bot==20.3
+face_recognition
+gspread
+oauth2client
+Pillow
