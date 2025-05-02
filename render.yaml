@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: face-attendance-bot
+    env: docker
+    plan: free
+    branch: main
+    repo: https://github.com/unitedtriathlon/face-attendance-bot
